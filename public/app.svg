@@ -1,0 +1,8 @@
+<svg width="300" height="300" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <path d="M100 100 C150 50, 170 80, 150 100 C130 120, 70 80, 50 100 C30 120, 50 150, 100 100 Z" fill="#A4DE02">
+    <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="5s" repeatCount="indefinite" />
+  </path>
+  <circle cx="100" cy="100" r="20" fill="#6AAB09">
+    <animate attributeName="r" from="10" to="20" dur="1s" repeatCount="indefinite" />
+  </circle>
+</svg>

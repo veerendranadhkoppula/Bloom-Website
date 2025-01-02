@@ -1,0 +1,50 @@
+<svg width="300" height="300" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Petals -->
+  <g transform="translate(100, 100)">
+    <circle r="70" fill="none" stroke="#FFB703" stroke-width="30" />
+    <g transform="rotate(0)">
+      <ellipse rx="15" ry="40" fill="#FFD166" transform="translate(0, -80)">
+        <animate attributeName="ry" from="30" to="40" dur="2s" repeatCount="indefinite" />
+      </ellipse>
+    </g>
+    <g transform="rotate(45)">
+      <ellipse rx="15" ry="40" fill="#FFD166" transform="translate(0, -80)">
+        <animate attributeName="ry" from="30" to="40" dur="2s" repeatCount="indefinite" />
+      </ellipse>
+    </g>
+    <g transform="rotate(90)">
+      <ellipse rx="15" ry="40" fill="#FFD166" transform="translate(0, -80)">
+        <animate attributeName="ry" from="30" to="40" dur="2s" repeatCount="indefinite" />
+      </ellipse>
+    </g>
+    <g transform="rotate(135)">
+      <ellipse rx="15" ry="40" fill="#FFD166" transform="translate(0, -80)">
+        <animate attributeName="ry" from="30" to="40" dur="2s" repeatCount="indefinite" />
+      </ellipse>
+    </g>
+    <g transform="rotate(180)">
+      <ellipse rx="15" ry="40" fill="#FFD166" transform="translate(0, -80)">
+        <animate attributeName="ry" from="30" to="40" dur="2s" repeatCount="indefinite" />
+      </ellipse>
+    </g>
+    <g transform="rotate(225)">
+      <ellipse rx="15" ry="40" fill="#FFD166" transform="translate(0, -80)">
+        <animate attributeName="ry" from="30" to="40" dur="2s" repeatCount="indefinite" />
+      </ellipse>
+    </g>
+    <g transform="rotate(270)">
+      <ellipse rx="15" ry="40" fill="#FFD166" transform="translate(0, -80)">
+        <animate attributeName="ry" from="30" to="40" dur="2s" repeatCount="indefinite" />
+      </ellipse>
+    </g>
+    <g transform="rotate(315)">
+      <ellipse rx="15" ry="40" fill="#FFD166" transform="translate(0, -80)">
+        <animate attributeName="ry" from="30" to="40" dur="2s" repeatCount="indefinite" />
+      </ellipse>
+    </g>
+  </g>
+  <!-- Center -->
+  <circle cx="100" cy="100" r="35" fill="#FF8C42">
+    <animate attributeName="r" from="25" to="35" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="448.534" height="363.468" viewBox="0 0 448.534 363.468">
+  <circle cx="224.267" cy="181.734" r="30" fill="yellow">
+    <animate attributeName="r" values="30;50;30" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <g fill="orange">
+    <circle cx="224.267" cy="91.734" r="10">
+      <animate attributeName="r" values="10;30;10" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="224.267" cy="271.734" r="10">
+      <animate attributeName="r" values="10;30;10" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="164.267" cy="181.734" r="10">
+      <animate attributeName="r" values="10;30;10" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="284.267" cy="181.734" r="10">
+      <animate attributeName="r" values="10;30;10" dur="2s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>

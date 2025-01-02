@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="448.534" height="363.468" viewBox="0 0 448.534 363.468">
+  <circle cx="224.267" cy="181.734" r="20" fill="orange" />
+  <g>
+    <ellipse cx="224.267" cy="121.734" rx="10" ry="30" fill="purple">
+      <animateTransform attributeName="transform" type="rotate" from="0 224.267 181.734" to="360 224.267 181.734" dur="2s" repeatCount="indefinite" />
+    </ellipse>
+    <ellipse cx="224.267" cy="241.734" rx="10" ry="30" fill="blue">
+      <animateTransform attributeName="transform" type="rotate" from="0 224.267 181.734" to="-360 224.267 181.734" dur="2s" repeatCount="indefinite" />
+    </ellipse>
+    <ellipse cx="184.267" cy="181.734" rx="30" ry="10" fill="green">
+      <animateTransform attributeName="transform" type="rotate" from="0 224.267 181.734" to="360 224.267 181.734" dur="2s" repeatCount="indefinite" />
+    </ellipse>
+    <ellipse cx="264.267" cy="181.734" rx="30" ry="10" fill="pink">
+      <animateTransform attributeName="transform" type="rotate" from="0 224.267 181.734" to="-360 224.267 181.734" dur="2s" repeatCount="indefinite" />
+    </ellipse>
+  </g>
+</svg>

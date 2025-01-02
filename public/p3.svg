@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="448.534" height="363.468" viewBox="0 0 448.534 363.468">
+  <circle cx="224.267" cy="181.734" r="10" fill="lightpink">
+    <animate attributeName="r" from="10" to="100" dur="1.5s" fill="freeze" />
+  </circle>
+  <path d="M224.267 81.734 Q200 181.734 224.267 281.734 Q248.534 181.734 224.267 81.734 Z" fill="pink" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.5s" fill="freeze" />
+  </path>
+  <circle cx="224.267" cy="181.734" r="5" fill="yellow">
+    <animate attributeName="r" from="5" to="40" dur="1s" begin="1s" fill="freeze" />
+  </circle>
+</svg>

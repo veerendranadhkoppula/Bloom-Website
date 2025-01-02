@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="448.534" height="363.468" viewBox="0 0 448.534 363.468">
+  <circle cx="224.267" cy="181.734" r="10" fill="yellow">
+    <animate attributeName="r" from="10" to="50" dur="1s" fill="freeze" />
+  </circle>
+  <circle cx="224.267" cy="81.734" r="10" fill="pink">
+    <animate attributeName="r" from="10" to="70" dur="1s" begin="0.5s" fill="freeze" />
+  </circle>
+  <circle cx="224.267" cy="281.734" r="10" fill="pink">
+    <animate attributeName="r" from="10" to="70" dur="1s" begin="0.5s" fill="freeze" />
+  </circle>
+  <circle cx="124.267" cy="181.734" r="10" fill="pink">
+    <animate attributeName="r" from="10" to="70" dur="1s" begin="0.5s" fill="freeze" />
+  </circle>
+  <circle cx="324.267" cy="181.734" r="10" fill="pink">
+    <animate attributeName="r" from="10" to="70" dur="1s" begin="0.5s" fill="freeze" />
+  </circle>
+</svg>

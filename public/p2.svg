@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="448.534" height="363.468" viewBox="0 0 448.534 363.468">
+  <circle cx="224.267" cy="181.734" r="10" fill="yellow">
+    <animate attributeName="r" from="10" to="30" dur="1s" fill="freeze" />
+  </circle>
+  <g fill="white">
+    <ellipse cx="224.267" cy="101.734" rx="5" ry="2">
+      <animate attributeName="rx" from="5" to="50" dur="1s" begin="0.5s" fill="freeze" />
+      <animate attributeName="ry" from="2" to="20" dur="1s" begin="0.5s" fill="freeze" />
+    </ellipse>
+    <ellipse cx="224.267" cy="261.734" rx="5" ry="2">
+      <animate attributeName="rx" from="5" to="50" dur="1s" begin="0.5s" fill="freeze" />
+      <animate attributeName="ry" from="2" to="20" dur="1s" begin="0.5s" fill="freeze" />
+    </ellipse>
+    <ellipse cx="154.267" cy="181.734" rx="2" ry="5">
+      <animate attributeName="rx" from="2" to="20" dur="1s" begin="0.5s" fill="freeze" />
+      <animate attributeName="ry" from="5" to="50" dur="1s" begin="0.5s" fill="freeze" />
+    </ellipse>
+    <ellipse cx="294.267" cy="181.734" rx="2" ry="5">
+      <animate attributeName="rx" from="2" to="20" dur="1s" begin="0.5s" fill="freeze" />
+      <animate attributeName="ry" from="5" to="50" dur="1s" begin="0.5s" fill="freeze" />
+    </ellipse>
+  </g>
+</svg>
